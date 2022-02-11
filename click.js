@@ -1,0 +1,1 @@
+confirm("Changing the colour scheme will delete your current content if unsaved, do you wish to continue? ")

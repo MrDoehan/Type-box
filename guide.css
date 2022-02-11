@@ -1,0 +1,11 @@
+h1 {
+  font-family: "Agency FB", arial;
+  text-align: center;
+}
+div {
+  width: 80%;
+  margin: 10%;
+  box-shadow: 10px 10px 5px grey, -10px -10px 5px grey;
+  background: linear-gradient(to right, lawngreen, cyan);
+  padding: 1.5%;
+}
